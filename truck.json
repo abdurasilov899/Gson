@@ -1,0 +1,21 @@
+{
+  "1": {
+    "id": 1,
+    "name": "BMW           ",
+    "drive": {
+      "id": 1,
+      "name": "Ulanskie "
+    },
+    "state": "ROUTE"
+  },
+  "2": {
+    "id": 2,
+    "name": "CAMRY         ",
+    "state": "BASE"
+  },
+  "3": {
+    "id": 3,
+    "name": "MERCEDES-BENZ ",
+    "state": "BASE"
+  }
+}

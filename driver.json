@@ -1,0 +1,19 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Ulanskie ",
+    "Truck": {
+      "id": 1,
+      "name": "BMW           ",
+      "state": "ROUTE"
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "Altynskie"
+  },
+  "3": {
+    "id": 3,
+    "name": "Kanatskie"
+  }
+}
